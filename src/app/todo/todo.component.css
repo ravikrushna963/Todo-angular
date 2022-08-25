@@ -1,0 +1,42 @@
+.input{
+    width: 27%;
+    border-radius: 6px;
+    margin-top: 24px;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12px;
+}
+.heading{
+    color: black;
+    font-size: 27px;
+    margin-right: 18px;
+    font-weight: 600;
+
+}
+.remove-button{
+    background-color: red;
+    height: 33px;
+    width: 84px;
+    
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 5px;
+}
+.add-button{
+    background-color: green;
+    color: white;
+    height: 38px;
+    width: 108px;
+    padding: 6px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+}
