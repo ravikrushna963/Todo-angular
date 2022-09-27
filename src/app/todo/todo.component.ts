@@ -20,7 +20,7 @@ export class TodoComponent implements OnInit {
     this.inputvalue = "";
    } 
    else{
-    alert("Please Enter Proper Value")
+    alert("Please Enter Proper Value" )
    }
 
  }
